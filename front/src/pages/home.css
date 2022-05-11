@@ -1,0 +1,21 @@
+.box {
+    padding: 3rem;
+}
+
+.back {
+    background-image: url(../images/back.png);
+    height: 236px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 3rem;
+}
+
+.title {
+    padding: 6.5rem;
+    text-align: center;
+    font-family: 'Kalam';
+}
+
+.prod {
+    display: flex;
+}
